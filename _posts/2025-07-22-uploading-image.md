@@ -14,9 +14,9 @@ Let's work !
 
 # 2. How did we create it?
 
-# 2. What the project can do?
+# 3. What the project can do?
 
-# 3. It very usefull in the future
+# 4. It very usefull in the future
 
 This is how to upload the image from the internet!
 
