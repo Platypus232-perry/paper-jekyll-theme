@@ -13,7 +13,7 @@ Let's work on it!
 
 ---
 
-## 01. Hello World in Python
+## 01. Greeting everyone by using code in Python
 
 ~~~python
 print("Hello, everyone!")
