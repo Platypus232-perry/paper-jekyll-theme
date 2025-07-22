@@ -2,7 +2,7 @@
 ---
 layout: post
 title: "Teachable Machine"
-description: ""This our projects can classify waste for human by using AI"
+description: "This our projects can classify waste for human by using AI"
 date: 2025-07-22
 tags: [test, style]
 comments: true
