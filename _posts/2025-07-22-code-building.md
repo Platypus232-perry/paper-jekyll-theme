@@ -16,7 +16,7 @@ Let's work on it!
 ### 01. Hello World in Python
 
 ~~~python
-print("Hello, World!")
+print("Hello, everyone!")
 ~~~
 
 This is the most basic Python command. It prints a string to the console.
@@ -26,11 +26,11 @@ This is the most basic Python command. It prints a string to the console.
 ### 02. Variables and Data Types in Python
 
 ~~~python
-name = "Junhee"
-age = 21
+name = "Nguyen Do Quang Vinh AKA PLATYPUS"
+age = 18
 is_student = True
 
-print(f"My name is {name}, I am {age} years old.")
+print(f"My name is {Nguyen Do Quang Vinh AKA PLATYPUS}, I am {18} years old.")
 ~~~
 
 In this example:
