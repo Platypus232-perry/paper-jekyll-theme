@@ -11,5 +11,5 @@ Begin
 
 ## 1.Teachable Machine
 # About waste classification project
-## Purpose of the project
-### What can it help
+# Purpose of the project
+# What can it help
