@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Let's upoload Platypus!"
-description: "Test post for image uploading"
+title: "Teachable Machine"
+description: ""This our projects can classify waste for human by using AI"
 date: 2025-07-22
 tags: [test, style]
 comments: true
 ---
 
-Below is just about uploading the image
 ---
 Let's work !
 
+# 1. About the project
 
-## Practice
+# 2. How did we create it?
 
-![test_playtypus_from_internet](https://pbs.twimg.com/media/CLz-y-cUcAAJ2Iz.jpg)
+# 2. What the project can do?
 
-
+# 3. It very usefull in the future
 
 This is how to upload the image from the internet!
 
