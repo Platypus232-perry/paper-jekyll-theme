@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 Show off your projects here!
-- [TeachableMachine]()
+- [TeachableMachine](https://platypus232-perry.github.io/paper-jekyll-theme/2025/07/uploading-image.html)
 - [Bacis code in Githud]()
 
 
