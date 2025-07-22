@@ -9,7 +9,7 @@ comments: true
 Begin
 ---
 
-## 1.Teachable Machine
-# About waste classification project
-# Purpose of the project
-# What can it help
+# 1.Teachable Machine
+### About waste classification project
+### Purpose of the project
+### What can it help
