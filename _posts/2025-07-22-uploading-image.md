@@ -24,3 +24,4 @@ This is how to upload the image from the internet!
 
 This is how to upload from your assets (your local image)
 
+---
