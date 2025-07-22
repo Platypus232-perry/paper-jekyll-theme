@@ -1,4 +1,4 @@
-ê---
+---
 layout: post
 title: "Let's upoload Platypus!"
 description: "Test post for image uploading"
@@ -20,7 +20,7 @@ Let's work !
 
 This is how to upload the image from the internet!
 
-![test_kitten](https://Platypus232-perry.github.io/paper-jekyll-theme/assets/images/platypus.jpg)
+![test_playtypus](https://Platypus232-perry.github.io/paper-jekyll-theme/assets/images/platypus.jpg)
 
 This is how to upload from your assets (your local image)
 
