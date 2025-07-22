@@ -5,14 +5,9 @@ permalink: /projects/
 ---
 
 Show off your projects here!
-- [Awesome Project]()
-- [Cool Project]()
-- [New Project]()
-- [Old Project]()
-- [Hard Project]()
-- [School Project]()
-- [Project's Project]()
+- [TeachableMachine]()
+- [Bacis code in Githud]()
 
-# Talks
-- How to ????
+
+
 
