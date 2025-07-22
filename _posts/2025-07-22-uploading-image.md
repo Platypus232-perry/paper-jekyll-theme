@@ -15,7 +15,7 @@ Let's work !
 ## Practice
 
 ![test_playtypus_from_internet](https://pbs.twimg.com/media/CLz-y-cUcAAJ2Iz.jpg)
-https://static01.nyt.com/images/2010/01/19/science/19obvenom/articleLarge.jpg?quality=75&auto=webp&disable=upscale
+
 
 
 This is how to upload the image from the internet!
