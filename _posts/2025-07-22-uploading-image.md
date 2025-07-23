@@ -49,7 +49,7 @@ Let's work !
 | paper waste   | 800   |
 |  plastic waste   | 1000   |
 
-![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/chart.jpg)
+![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/chart.jpg?raw=true)
 
 ## Expanding and Enhancing Data:
 
