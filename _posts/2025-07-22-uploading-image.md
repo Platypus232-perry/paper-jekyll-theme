@@ -94,20 +94,20 @@ Let's work !
 
 
 # 3. What the project can do?
-  ### It can identify and classify waste through very detailed images.
+It can identify and classify waste through very detailed images.
 
-  ### Displays clear, detailed metrics.
+Displays clear, detailed metrics.
 
-  ### Shows a reasonable accuracy rate.
+Shows a reasonable accuracy rate.
 
-  ### User-friendly interface.
+User-friendly interface.
   
 # 4. It very usefull in the future
-  ## Our Big Goals:
+## Our Big Goals:
 
-  ### Automate waste sorting better: This means classifying trash precisely to cut down pollution and make recycling super efficient.
+### Automate waste sorting better: This means classifying trash precisely to cut down pollution and make recycling super efficient.
 
-  ### Be a leading platform for sharing data: We want to build a place where people can easily share data and work together on AI solutions for the environment. This will lead to new, smart ways to handle waste.
+### Be a leading platform for sharing data: We want to build a place where people can easily share data and work together on AI solutions for the environment. This will lead to new, smart ways to handle waste.
 
 
 ![test_playtypus](https://Platypus232-perry.github.io/paper-jekyll-theme/assets/images/platypus.jpg)
