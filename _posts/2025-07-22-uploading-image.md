@@ -52,7 +52,7 @@ Let's work !
 ![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/chart.jpg)
 ## Expanding and Enhancing Data:
 
-### To help the AI learn better, we've "enriched" our data. This means we modify the original images by changing:
+  ### To help the AI learn better, we've "enriched" our data. This means we modify the original images by changing:
       
    -Brightness
    
@@ -61,7 +61,9 @@ Let's work !
    -Shooting angles
     
   ### This creates countless variations of the same waste type, helping the AI recognize it better in various situations.
+  
 ## Clear and Accurate Classification:
+
   ### Instead of simply labeling as "inorganic," we classify waste very specifically by material type. For example:
 
       "Electronics"
