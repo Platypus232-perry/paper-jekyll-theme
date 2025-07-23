@@ -61,19 +61,10 @@ Let's work !
       
    -Brightness
    
-   ![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/brighnest.png?raw=true)
-   
    -Contrast
-   ![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/contrast.png?raw=true)
-   
+
    -Shooting angles
-   
-   ![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/plastic%20waste%20(57).jpg?raw=true)
-   
-   ![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/plastic%20waste%20(59).jpg?raw=true)
-   
-   ![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/plastic%20waste%20(65).jpg?raw=true)
-   
+  
 ### This creates countless variations of the same waste type, helping the AI recognize it better in various situations.
 ## Clear and Accurate Classification:
 ### Instead of simply labeling as "inorganic," we classify waste very specifically by material type. For example:
@@ -122,11 +113,5 @@ User-friendly interface.
 ### Automate waste sorting better: This means classifying trash precisely to cut down pollution and make recycling super efficient.
 
 ### Be a leading platform for sharing data: We want to build a place where people can easily share data and work together on AI solutions for the environment. This will lead to new, smart ways to handle waste.
-
-
-![test_playtypus](https://Platypus232-perry.github.io/paper-jekyll-theme/assets/images/platypus.jpg)
-{: .center}
-
-This is how to upload from your assets (your local image)
 
 ---
