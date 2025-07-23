@@ -11,9 +11,12 @@ comments: true
 Let's work !
 
 # 1. About the project
-  Our project is called "Waste Classification using Teachable Machine."
+  Do you know nowadays most do not care much about classification waste ? According to “Song tre news” most citizens in Ha Noi do not care about classification waste in the city. The reason is that they have a lack of knowledge about classification waste. Understand the importance of that we have decided to create the project.
+## Project
+   This project is called "Waste Classification using Teachable Machine," specialized in collecting, managing, and clearly classifying waste by specific material types, rather than simply "organic" or "inorganic." This website serves as a rich image data bank, specifically designed for training AImodels. 
+## Purpose
+  The main purpose is to provide high-quality, detailed, and diverse data for the development of AI systems on Teachable Machine or other platforms, aiming to automatically classify waste based on material. This directly contributes to solving urgent environmental problems, supporting more efficient recycling, minimizing pollution, and moving towards a circular economy.
 
-  Our main goal is to classify waste in detail by specific material types (like plastic, paper, metal, etc.), rather than just "organic" or "inorganic."
 ## What does this project do?
   We're building a website that acts like a "bank" of many different waste images.
 
