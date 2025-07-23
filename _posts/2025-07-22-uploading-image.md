@@ -12,8 +12,10 @@ Let's work !
 
 # 1. About the project
   Do you know nowadays most do not care much about classification waste ? According to “Song tre news” most citizens in Ha Noi do not care about classification waste in the city. The reason is that they have a lack of knowledge about classification waste. Understand the importance of that we have decided to create the project.
+---
   ![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/sad.png?raw=true "Center")
   {: .center}
+---
 ## Project
    This project is called "Waste Classification using Teachable Machine," specialized in collecting, managing, and clearly classifying waste by specific material types, rather than simply "organic" or "inorganic." This website serves as a rich image data bank, specifically designed for training AImodels. 
 ## Purpose
