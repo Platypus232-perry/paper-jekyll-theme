@@ -41,7 +41,7 @@ Let's work !
 
 | Waste Type | Image Count | 
 |:--------|:-------:|
-| Automobile Wastes   | 1100   |
+| Automobile Wastes   | 1100  ![chart](https://github.com/Platypus232-perry/paper-jekyll-theme/blob/master/assets/images/sad.png?raw=true "Center")  |
 | Battery Waste   | 580   |
 | E-waste   | 710   |
 | glass waste   | 900   |
