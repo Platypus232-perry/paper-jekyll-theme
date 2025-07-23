@@ -59,7 +59,7 @@ Let's work !
    -Contrast
    
    -Shooting angles
-    
+
   ### This creates countless variations of the same waste type, helping the AI recognize it better in various situations.
   
 ## Clear and Accurate Classification:
