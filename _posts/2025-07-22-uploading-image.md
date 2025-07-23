@@ -62,7 +62,7 @@ Let's work !
     
   ### This creates countless variations of the same waste type, helping the AI recognize it better in various situations.
 
-  ## Clear and Accurate Classification:
+## Clear and Accurate Classification:
   ### Instead of simply labeling as "inorganic," we classify waste very specifically by material type. For example:
 
       "Electronics"
@@ -77,9 +77,9 @@ Let's work !
    
       "Fabric"
    
-  ### We have a very strict moderation process to ensure the data is always correct and of the highest quality. This helps the AI distinguish waste quickly and precisely.
+### We have a very strict moderation process to ensure the data is always correct and of the highest quality. This helps the AI distinguish waste quickly and precisely.
 
-## Diversity Within Each Waste Type:
+  ## Diversity Within Each Waste Type:
 
 ### Within each waste type (e.g., plastic bottles), we include images with:
 
